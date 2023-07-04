@@ -8,3 +8,5 @@ Latest changes:
 - Progress bar on top of the map now syncs correctly when skipping time
 - Adjusted the rotation icon colors
 - Rotation sound effect is stopped when going back to select map menu
+
+https://davidescalante.github.io/esbui/
