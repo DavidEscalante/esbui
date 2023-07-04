@@ -3,6 +3,7 @@ This is intended for personal use in the Esport Battlefield Tournament. It is mo
 
 Latest changes include:
 
+- Fixed and error that caused the progress bar on the map to not restart
 - Cleaner code
 - You can now skip 2 seconds forward and backward by clicking on the right or left side of the map
 - New sound effects
